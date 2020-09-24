@@ -1,35 +1,9 @@
-## Welcome to GitHub Pages
+## Поддержи проект Статей читалки!
+Друзья, [Статей Читалка](https://t.me/chotamreaderbot) в строю уже 3.5 года!<br/>
+В этого бота вложено много сил и времени, но его содержание стоит денег.<br/>
+Здесь вы можете сделать пожертвование, которое позволит читалке остаться в строю.<br/>
+Проект постоянно развивается. С основным списком изменений можно ознакомиться [здесь](https://telegra.ph/Chitalki-changelog-01-14?r=01092020a) <br/>
+Также все эти годы у нас есть [чат поддержки](https://t.me/joinchat/B4wwl0Am8gBheHG0TbIeJw), где вы можете задать вопрос по работе этого бота. <br/>
+Ссылку на эту страницу можно получить в [боте](https://t.me/chotamreaderbot) командой /donate
 
-You can use the [editor on GitHub](https://github.com/mercuree/chotamreaderbotpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mercuree/chotamreaderbotpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-<iframe src="https://promo-money.ru/quickpay/shop-widget?writer=seller&targets=Template&targets-hint=&default-sum=100&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410014281023692" width="100%" height="222" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+<iframe src="https://promo-money.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9%20%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%BA%D1%83&targets-hint=&default-sum=100&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410014281023692" width="100%" height="222" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
